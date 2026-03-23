@@ -2,8 +2,6 @@
 
 **Ziger** is a blazing-fast, minimal HTTP/1.1 web server written in Zig. Designed as a high-performance alternative to nginx for specific use cases, it leverages Zig's zero-overhead abstractions for raw speed—aiming for 100k+ req/s on commodity hardware.
 
-![Ziger Banner](https://via.placeholder.com/1200x400/000000/ffffff?text=Ziger+-+Blazing+Fast+Zig+HTTP+Server)
-
 ## Why We Better Than Nginx
 - Cool name
 - Pure Zig standard library—no external deps for core server.
